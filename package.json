@@ -1,0 +1,28 @@
+{
+  "name": "@prof-dev/media",
+  "version": "1.0.0",
+  "description": "Helper for optimising usage of media queries in js",
+  "main": "lib/useMedia.js",
+  "types": "lib/useMedia.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "clean": "tsc --build --clean"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Profesor08/media.git"
+  },
+  "author": "Profesor08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Profesor08/media/issues"
+  },
+  "homepage": "https://github.com/Profesor08/media#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
