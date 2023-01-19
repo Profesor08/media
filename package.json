@@ -2,8 +2,8 @@
   "name": "@prof-dev/media",
   "version": "1.0.0",
   "description": "Helper for optimising usage of media queries in js",
-  "main": "lib/useMedia.js",
-  "types": "lib/useMedia.d.ts",
+  "main": "lib/getMedia.js",
+  "types": "lib/getMedia.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Profesor08/media#readme",
   "devDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.9.4"
   }
 }
