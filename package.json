@@ -1,6 +1,6 @@
 {
   "name": "@prof-dev/media",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Helper for optimising usage of media queries in js",
   "main": "lib/getMedia.js",
   "types": "lib/getMedia.d.ts",
